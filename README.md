@@ -1,4 +1,4 @@
-# 📘 Module 13 – Stack and Recursion  
+# 📘 Module 13 – C
 **Name**: Abdur Rahman Basil A H  
 **Register Number**: 212223040002  
 **Course**: C Programming Lab  
