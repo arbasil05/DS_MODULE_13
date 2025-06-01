@@ -11,10 +11,10 @@ To write a C function to perform push and pop operation of the stack in the infi
 5. End the program.
 
 ## Program:
-```
+```c
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Kurapati Vishnu Vardhan Reddy
+Developed by: Abdur Rahman Basil A H
 RegisterNumber: 212223040103
 */
 
